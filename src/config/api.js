@@ -1,6 +1,6 @@
 // Backend API Base URLs
 // export const BASE_URL = 'http://localhost:5000';
-export const BASE_URL = 'https://streamWave-backend-h0arbvcwd7e4anhh.westeurope-01.azurewebsites.net';
+export const BASE_URL = 'https://streamwave-backend-gnf3d0hkagfefbec.norwayeast-01.azurewebsites.net';
 
 // Specific Endpoint URLs
 export const ENDPOINTS = {
